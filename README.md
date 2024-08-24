@@ -1,7 +1,8 @@
 ### Olá Eu sou o Natã Frade✌🏼 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nat%C3%A3-emanuel-frade/)
 
-![N4ta Frade GitHub stats](https://github-readme-stats.vercel.app/api?username=N4taFrade&show_icons=true&theme=dracula)
+![N4ta Frade GitHub stats](https://github-readme-stats.vercel.app/api?username=N4taFrade&show_icons=true&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N4taFrade&layout=compact&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -16,4 +17,5 @@
 </div><br/>
 
 A tecnologia sempre foi uma das minhas maiores paixões porque acredito que ela pode mudar o mundo, unir pessoas e criar novas oportunidades. Para mim, ela não é só uma ferramenta, mas algo que impulsiona o progresso.
+
 
